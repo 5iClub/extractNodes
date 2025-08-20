@@ -9,25 +9,9 @@
 
 开启浏览器自带doh以及客户端tun模式也可绕过封锁
 
-## Cloudflare Worker部署命令
+## Cloudflare Worker部署
 
 [具体部署操作可以观看视频教学](https://www.youtube.com/watch?v=aSg3kb668wg)
-
-创建项目
-
->npm create cloudflare@latest
-
-安装依赖js-yaml
-
-> npm install js-yaml
-
-测试
-
-> wrangler dev
-
-部署到cloudflare
-
-> wrangler deploy
 
 ## 致谢
 
