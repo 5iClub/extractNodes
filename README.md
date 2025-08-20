@@ -9,7 +9,7 @@
 
 开启浏览器自带doh以及客户端tun模式也可绕过封锁
 
-## cloudflare worker部署命令
+## Cloudflare Worker部署命令
 
 [具体部署操作可以观看视频教学](https://www.youtube.com/watch?v=aSg3kb668wg)
 
