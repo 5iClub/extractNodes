@@ -9,14 +9,6 @@
 
 开启浏览器自带doh以及客户端tun模式也可绕过封锁
 
-## 订阅链接分享
-
-### 通用base64链接 （shadowrocket和nekoray系列）
-
-```
-https://gob64.topmarco.tech
-```
-
 ## cloudflare worker部署命令
 
 [具体部署操作可以观看视频教学](https://www.youtube.com/watch?v=aSg3kb668wg)
